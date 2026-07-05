@@ -45,6 +45,9 @@ what git history and memory are for).
 
 ## Compaction session (user-initiated, ~monthly or when budgets trip)
 
+Full runbook incl. the team-sharing step: `playbooks/knowledge-loop.md`.
+In brief:
+
 1. Read `lessons.md`; cluster recurring lessons.
 2. Promote stable, recurring lessons into the appropriate playbook (or, rarely
    and with user approval, into `rules/common/`); delete promoted + stale
@@ -54,6 +57,8 @@ what git history and memory are for).
 4. Run the read-back + adversarial review (delegation-templates.md §5) on any
    file changed.
 5. Check budgets with `wc -l`.
+6. Share: sanitize promoted lessons and open a PR to the team repo
+   (checklist and PR procedure in `knowledge-loop.md`).
 
 ## Staleness markers
 

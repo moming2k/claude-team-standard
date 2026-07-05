@@ -17,6 +17,7 @@ trigger applies, follow them when read. Always loaded alongside this file:
 | A global rule seems arbitrary or wrong | `harness-diagnosis.md` |
 | Session start on long-running institutional work | `letter-to-future-sessions.md` |
 | Hit a recurring mistake worth recording | append to `lessons.md` |
+| Compaction session / promoting lessons / syncing the team repo | `knowledge-loop.md` |
 
 ## Workflow routing — one intent, one skill
 
